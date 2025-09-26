@@ -51,4 +51,4 @@ Otomasyon testi aşağıdaki adımları kapsar:
 ## ▶️ Çalıştırma
 1. Projeyi klonla:
    ```bash
-   git clone <repo-link>
+   git clone <https://github.com/aydogduyunus/yunusaydogdu-selenium-TestNG.git>
